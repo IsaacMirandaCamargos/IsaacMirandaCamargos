@@ -13,10 +13,6 @@
 
 
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMirandaCamargos&show_icons=true&theme=midnight-purple)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMirandaCamargos&layout=compact&theme=midnight-purple)
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMirandaCamargos&show_icons=true&theme=midnight-purple)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMirandaCamargos&layout=compact&theme=midnight-purple)
 
 
