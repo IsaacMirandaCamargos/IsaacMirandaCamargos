@@ -1,14 +1,50 @@
-### Hi there 👋
+<h1 align="center">Hello, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Isaac.<br>
+        Currently learning about genetic algorithms, machine learning and web development. I am also doing some projects but always looking forward.<br>
+    </i><br>
+  <a href="https://github.com/IsaacMirandaCamargos">
+           <img src="https://github-readme-stats.vercel.app/api?username=IsaacMirandaCamargos&show_icons=true&theme=midnight-purple">
+  </a><br>
+    <a href="https://www.linkedin.com/in/isaac-camargos-945833207/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://www.kaggle.com/isaacmirandacamargos">
+        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+    </a>
+  <a href="https://www.facebook.com/isaacmirandacamargos.miranda/">
+        <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook" alt="Facebook">
+    </a>
+</p>
 
 
-- 🌱 I’m currently learning machine learning, data science and genetic algorithms.
-- 💬 Ask me about Anything perhaps I can help.
-- 📫 How to reach me: Send me a message https://www.facebook.com/isaacmirandacamargos.miranda.
-- 😄 Pronouns: He.
-- ⚡ About me: I like tabletop RPG a lot, I like read fantasy and adventure books.
+<details>
+<p align="center">
+  <a href="https://github.com/IsaacMirandaCamargos">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaacMirandaCamargos&theme=transparent" />
+  </a>
+  <a href="https://github.com/IsaacMirandaCamargos">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacMirandaCamargos&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/IsaacMirandaCamargos">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaacMirandaCamargos&theme=transparent" />
+  </a>
+  <a href="https://github.com/IsaacMirandaCamargos">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMirandaCamargos&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/IsaacMirandaCamargos">
+    <img src="https://komarev.com/ghpvc/?username=IsaacMirandaCamargos&color=blue&style=flat)" />
+  </a>
+</p>
 
 
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMirandaCamargos&show_icons=true&theme=midnight-purple)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMirandaCamargos&layout=compact&theme=midnight-purple)
 
 
